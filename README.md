@@ -22,3 +22,7 @@ Dataset structure:
 10. error_type – payment error type (details in the link);
 11. currency – payment currency;
 12. card_country – country code of the issuing bank.
+
+Analytical report: https://drive.google.com/file/d/1U7CEk1TqfC4m2XMZTmUdl1lKl24lJFpr/view?usp=sharing
+
+Tableau: https://drive.google.com/file/d/1_QlaZMlxdR93HVAxgJhpiCWJPhPAm6rQ/view?usp=sharing
